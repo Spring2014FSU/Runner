@@ -1,0 +1,18 @@
+Developer Discussion
+
+Splash Page
+
+The splash screen will contain three options to proceed from the game. There will be a "Play" option which will start the game by calling the play class. The next option will be the "How To Play" option, which will take the user to a tutorial of how to play the game and some simple settings. The last option for user will be the "Quit", which will end the game.
+
+Play Page
+
+The play option will start the game immediately and starts keeping track the player's score. The score will be based on scale of difficulty. The playing screen will be a rolling screen in which the character will have to avoid obstacles to progress in the game. The rolling screen would be a long graphic design the entire level. There will be several obstacles for the character to avoid by jumping over them. Some of methods needed for the play class will be a collision method to determine if the character collides with one of object and end the game.  If necessary, there will be a score method to keep track of the player's score throughout each level. 
+
+How To Play Page
+
+The how to play page will give the user a small tutorial of how to play the game and perform each action correctly to avoid obstacles. The tutorial will show the user the controls which will be a button on screen to command the character to jump. In addition to the tutorial there will be settings controls for the user to adjust the volume, turn the
+
+Quit
+
+The quit page will shortly appear with salutation before exiting the game. 
+
